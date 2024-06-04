@@ -9,5 +9,5 @@ Kolmogorov-Arnold Networks (KAN) using Fractional Fourier Transform
 - For inquiries or collaborations, reach out to [zluo@hust.edu.cn].
 
 **Future Work**
-More experiments and optimizations are needed.
-Other implementations are also under development.
+- More experiments and optimizations are needed.
+- Other implementations are also under development.
